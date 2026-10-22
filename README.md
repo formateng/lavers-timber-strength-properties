@@ -1,6 +1,6 @@
 # Lavers Timber Strength Properties: BRE Dataset & Interactive Web Explorer
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Static%20Web%20App-orange?style=flat-square&logo=github)](https://jjsolly.github.io/lavers-timber-strength-properties)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Static%20Web%20App-orange?style=flat-square&logo=github)](https://formateng.github.io/lavers-timber-strength-properties)
 [![Records](https://img.shields.io/badge/Records-447%20Test%20Conditions-success?style=flat-square)](#dataset-structure)
 
 A digitized database and a basic interactive web explorer for the physical and mechanical timber properties evaluated by the UK **Building Research Establishment (BRE)** / **Forest Products Research Laboratory (FPRL)**. This is provided for the convienience of researchers working on topics that require this dataset and to provide a general overview of properties per species for the interest of practitioners. The data was digitised for our own interest during an internal research project. 
